@@ -1,3 +1,3 @@
 
 
-secnario test
+scenario test
